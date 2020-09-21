@@ -70,7 +70,7 @@
     "zen-observable-ts": "^0.8.21"
   },
   "peerDependencies": {
-    "graphql": "14.x || 15.x"
+    "graphql": "14.5.4"
   },
   "devDependencies": {
     "@bitjson/npm-scripts-info": "^1.0.0",
